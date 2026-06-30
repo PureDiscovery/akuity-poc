@@ -8,7 +8,7 @@ spec:
     repoURL: https://github.com/PureDiscovery/akuity-poc.git
     path: kargo
   destination:
-    name: in-cluster
+    name: kargo
   syncPolicy:
     syncOptions:
     - CreateNamespace=true
