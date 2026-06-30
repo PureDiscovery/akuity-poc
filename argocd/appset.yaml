@@ -19,7 +19,7 @@ spec:
       destination:
         # namespace: guestbook-{{path.basename}}
         # Specify either a cluster destination name or server address:
-        name: in-cluster
+        name: demo
         # server: https://REPLACEME
       project: akuity-argocd-kargo-quickstart
       source:
