@@ -7,7 +7,7 @@ spec:
   syncPolicy:
     automated: {}
   source:
-    repoURL: https://github.com/dhpup/akuity-argocd-kargo-quickstart
+    repoURL: https://github.com/PureDiscovery/akuity-poc
     path: argocd
     directory:
       recurse: true

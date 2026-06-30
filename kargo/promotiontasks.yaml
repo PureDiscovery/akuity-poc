@@ -6,7 +6,7 @@ metadata:
 spec:
   vars:
   - name: repoURL
-    value: https://github.com/dhpup/akuity-argocd-kargo-quickstart.git
+    value: https://github.com/PureDiscovery/akuity-poc.git
   - name: branch
     value: main
   - name: image
